@@ -7,6 +7,6 @@
 #'
 #' @examples
 #' myquad(x = 1:10)
-mysquad <- function(x){
+myquad <- function(x){
   x^2 -5*x + 7
 }
