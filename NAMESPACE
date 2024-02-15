@@ -2,3 +2,4 @@
 
 export(myPlot)
 export(myquad)
+export(mysample)
