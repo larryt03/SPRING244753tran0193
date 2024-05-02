@@ -1,0 +1,3 @@
+#' Data of fire
+#'
+"fire"
